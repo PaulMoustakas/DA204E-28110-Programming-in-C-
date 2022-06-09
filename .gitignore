@@ -1,2 +1,151 @@
 
 .DS_Store
+A1/Assignment1.code-workspace
+A1/obj/Debug/net6.0/C\#-Kurs.genruntimeconfig.cache
+A1/obj/Debug/net6.0/C\#-Kurs.GlobalUsings.g.cs
+A1/obj/Debug/net6.0/C\#-Kurs.GeneratedMSBuildEditorConfig.editorconfig
+A1/obj/Debug/net6.0/C\#-Kurs.pdb
+A1/obj/Debug/net6.0/ref/C\#-Kurs.dll
+A1/obj/project.assets.json
+A1/obj/project.nuget.cache
+A2/.vscode/launch.json
+A2/.vscode/tasks.json
+A2/Assignment1.code-workspace
+A2/bin/Debug/net6.0/C\#-Kurs
+A2/bin/Debug/net6.0/C\#-Kurs.deps.json
+A2/bin/Debug/net6.0/C\#-Kurs.dll
+A2/bin/Debug/net6.0/C\#-Kurs.pdb
+A2/bin/Debug/net6.0/C\#-Kurs.runtimeconfig.json
+A2/bin/Debug/net6.0/ref/C\#-Kurs.dll
+A2/C\#-Kurs.csproj
+A2/obj/C\#-Kurs.csproj.nuget.dgspec.json
+A2/obj/C\#-Kurs.csproj.nuget.g.props
+A2/obj/C\#-Kurs.csproj.nuget.g.targets
+A2/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+A2/obj/Debug/net6.0/apphost
+A2/obj/Debug/net6.0/C\#-Kurs.GlobalUsings.g.cs
+A2/obj/Debug/net6.0/C\#-Kurs.genruntimeconfig.cache
+A2/obj/Debug/net6.0/C\#-Kurs.GeneratedMSBuildEditorConfig.editorconfig
+A2/obj/Debug/net6.0/C\#-Kurs.dll
+A2/obj/Debug/net6.0/C\#-Kurs.csproj.FileListAbsolute.txt
+A2/obj/Debug/net6.0/C\#-Kurs.csproj.CoreCompileInputs.cache
+A2/obj/Debug/net6.0/C\#-Kurs.csproj.AssemblyReference.cache
+A2/obj/Debug/net6.0/C\#-Kurs.assets.cache
+A2/obj/Debug/net6.0/C\#-Kurs.AssemblyInfoInputs.cache
+A2/obj/Debug/net6.0/C\#-Kurs.AssemblyInfo.cs
+A2/obj/project.nuget.cache
+A2/obj/project.assets.json
+A2/obj/Debug/net6.0/ref/C\#-Kurs.dll
+A2/obj/Debug/net6.0/C\#-Kurs.pdb
+A3/.vs/Assignment 3/v17/.suo
+A3/Assignment 3.sln
+A3/Assignment 3/bin/Debug/Assignment 3.exe
+A3/Assignment 3/Assignment 3.csproj.user
+A3/Assignment 3/Assignment 3.csproj
+A3/Assignment 3/bin/Debug/Assignment 3.pdb
+A3/Assignment 3/bin/Debug/Assignment 3.exe.config
+A3/Assignment 3/App.config
+A3/Assignment 3/MainForm.resx
+A3/Assignment 3/obj/Debug/Assignment 3.csproj.FileListAbsolute.txt
+A3/Assignment 3/obj/Debug/Assignment 3.csproj.CoreCompileInputs.cache
+A3/Assignment 3/obj/Debug/Assignment 3.csproj.AssemblyReference.cache
+A3/Assignment 3/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+A3/Assignment 3/obj/Debug/Assignment 3.csproj.SuggestedBindingRedirects.cache
+A3/Assignment 3/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+A3/Assignment 3/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+A3/Assignment 3/obj/Debug/Assignment_3.Properties.Resources.resources
+A3/Assignment 3/obj/Debug/Assignment_3.MainForm.resources
+A3/Assignment 3/obj/Debug/Assignment 3.pdb
+A3/Assignment 3/obj/Debug/Assignment 3.exe
+A3/Assignment 3/obj/Debug/Assignment 3.csproj.GenerateResource.cache
+A3/Assignment 3/Properties/Settings.settings
+A4/.vs/Assignment4AB/DesignTimeBuild/.dtbcache.v2
+A4/.vs/Assignment4AB/v17/.futdcache.v1
+A4/Assignment4AB/bin/Debug/net6.0-windows/Assignment4AB.deps.json
+A4/Assignment4AB/Assignment4AB.csproj.user
+A4/Assignment4AB/Assignment4AB.csproj
+A4/Assignment4AB.sln
+A4/.vs/Assignment4AB/v17/.suo
+A4/Assignment4AB/bin/Debug/net6.0-windows/Assignment4AB.runtimeconfig.json
+A4/Assignment4AB/bin/Debug/net6.0-windows/Assignment4AB.pdb
+A4/Assignment4AB/bin/Debug/net6.0-windows/Assignment4AB.exe
+A4/Assignment4AB/bin/Debug/net6.0-windows/Assignment4AB.dll
+A4/Assignment4AB/obj/Debug/net6.0-windows/apphost.exe
+A4/Assignment4AB/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+A4/Assignment4AB/obj/Assignment4AB.csproj.nuget.g.targets
+A4/Assignment4AB/obj/Assignment4AB.csproj.nuget.g.props
+A4/Assignment4AB/obj/Assignment4AB.csproj.nuget.dgspec.json
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.csproj.GenerateResource.cache
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.csproj.FileListAbsolute.txt
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.csproj.CoreCompileInputs.cache
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.csproj.BuildWithSkipAnalyzers
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.csproj.AssemblyReference.cache
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.assets.cache
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.AssemblyInfoInputs.cache
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.AssemblyInfo.cs
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.designer.deps.json
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.designer.runtimeconfig.json
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.dll
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.FormIngredient.resources
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.FormMain.resources
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.GeneratedMSBuildEditorConfig.editorconfig
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.genruntimeconfig.cache
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.GlobalUsings.g.cs
+A4/Assignment4AB/obj/Debug/net6.0-windows/Assignment4AB.pdb
+A4/Assignment4AB/obj/project.nuget.cache
+A4/Assignment4AB/obj/project.assets.json
+A4/Assignment4AB/obj/Debug/net6.0-windows/refint/Assignment4AB.dll
+A4/Assignment4AB/obj/Debug/net6.0-windows/ref/Assignment4AB.dll
+A5/Assignment5.sln
+A5/.vs/Assignment5/v17/.suo
+A5/Assignment5/bin/Debug/Assignment5.exe
+A5/Assignment5/bin/Debug/Assignment5.pdb
+A5/Assignment5/bin/Debug/Assignment5.exe.config
+A5/Assignment5/obj/Debug/Assignment5.csproj.SuggestedBindingRedirects.cache
+A5/Assignment5/obj/Debug/Assignment5.csproj.GenerateResource.cache
+A5/Assignment5/obj/Debug/Assignment5.csproj.FileListAbsolute.txt
+A5/Assignment5/obj/Debug/Assignment5.csproj.CoreCompileInputs.cache
+A5/Assignment5/obj/Debug/Assignment5.csproj.AssemblyReference.cache
+A5/Assignment5/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+A5/Assignment5/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+A5/Assignment5/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+A5/Assignment5/obj/Debug/Assignment5.Properties.Resources.resources
+A5/Assignment5/obj/Debug/Assignment5.pdb
+A5/Assignment5/obj/Debug/Assignment5.Form1.resources
+A5/Assignment5/obj/Debug/Assignment5.exe
+A5/Assignment5/Properties/Settings.settings
+A1/.vscode/tasks.json
+A1/.vscode/launch.json
+A1/bin/Debug/net6.0/C\#-Kurs
+A1/bin/Debug/net6.0/C\#-Kurs.deps.json
+A1/bin/Debug/net6.0/ref/C\#-Kurs.dll
+A1/bin/Debug/net6.0/C\#-Kurs.runtimeconfig.json
+A1/bin/Debug/net6.0/C\#-Kurs.pdb
+A1/bin/Debug/net6.0/C\#-Kurs.dll
+A1/obj/C\#-Kurs.csproj.nuget.dgspec.json
+A1/obj/C\#-Kurs.csproj.nuget.g.props
+A1/obj/C\#-Kurs.csproj.nuget.g.targets
+A1/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+A1/obj/Debug/net6.0/apphost
+A1/obj/Debug/net6.0/C\#-Kurs.AssemblyInfoInputs.cache
+A1/obj/Debug/net6.0/C\#-Kurs.AssemblyInfo.cs
+A1/obj/Debug/net6.0/C\#-Kurs.assets.cache
+A1/obj/Debug/net6.0/C\#-Kurs.csproj.AssemblyReference.cache
+A1/obj/Debug/net6.0/C\#-Kurs.csproj.CoreCompileInputs.cache
+A1/obj/Debug/net6.0/C\#-Kurs.csproj.FileListAbsolute.txt
+A1/obj/Debug/net6.0/C\#-Kurs.dll
+A3/Assignment 3/Properties/Resources.resx
+A3/Assignment 3/Properties/Resources.Designer.cs
+A3/Assignment 3/Properties/AssemblyInfo.cs
+A3/Assignment 3/Properties/Settings.Designer.cs
+A4/Assignment4AB/FormIngredients.resx
+A4/Assignment4AB/FormMain.Designer.cs
+A5/Assignment5/Assignment5.csproj
+A5/Assignment5/App.config
+A5/Assignment5/Form1.resx
+A5/Assignment5/Properties/AssemblyInfo.cs
+A5/Assignment5/Properties/Resources.Designer.cs
+A5/Assignment5/Properties/Resources.resx
+A5/Assignment5/Properties/Settings.Designer.cs
+A4/Assignment4AB/FormMain.resx
+A1/C\#-Kurs.csproj
