@@ -1,0 +1,15 @@
+/Users/paulmoustakas/C#-Kurs/bin/Debug/net6.0/C#-Kurs
+/Users/paulmoustakas/C#-Kurs/bin/Debug/net6.0/C#-Kurs.deps.json
+/Users/paulmoustakas/C#-Kurs/bin/Debug/net6.0/C#-Kurs.runtimeconfig.json
+/Users/paulmoustakas/C#-Kurs/bin/Debug/net6.0/C#-Kurs.dll
+/Users/paulmoustakas/C#-Kurs/bin/Debug/net6.0/ref/C#-Kurs.dll
+/Users/paulmoustakas/C#-Kurs/bin/Debug/net6.0/C#-Kurs.pdb
+/Users/paulmoustakas/C#-Kurs/obj/Debug/net6.0/C#-Kurs.csproj.AssemblyReference.cache
+/Users/paulmoustakas/C#-Kurs/obj/Debug/net6.0/C#-Kurs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulmoustakas/C#-Kurs/obj/Debug/net6.0/C#-Kurs.AssemblyInfoInputs.cache
+/Users/paulmoustakas/C#-Kurs/obj/Debug/net6.0/C#-Kurs.AssemblyInfo.cs
+/Users/paulmoustakas/C#-Kurs/obj/Debug/net6.0/C#-Kurs.csproj.CoreCompileInputs.cache
+/Users/paulmoustakas/C#-Kurs/obj/Debug/net6.0/C#-Kurs.dll
+/Users/paulmoustakas/C#-Kurs/obj/Debug/net6.0/ref/C#-Kurs.dll
+/Users/paulmoustakas/C#-Kurs/obj/Debug/net6.0/C#-Kurs.pdb
+/Users/paulmoustakas/C#-Kurs/obj/Debug/net6.0/C#-Kurs.genruntimeconfig.cache

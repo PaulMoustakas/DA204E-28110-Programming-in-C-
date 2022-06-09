@@ -1,0 +1,11 @@
+C:\Users\paulm\source\repos\Assignment 3\Assignment 3\bin\Debug\Assignment 3.exe.config
+C:\Users\paulm\source\repos\Assignment 3\Assignment 3\bin\Debug\Assignment 3.exe
+C:\Users\paulm\source\repos\Assignment 3\Assignment 3\bin\Debug\Assignment 3.pdb
+C:\Users\paulm\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csproj.AssemblyReference.cache
+C:\Users\paulm\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulm\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment_3.Properties.Resources.resources
+C:\Users\paulm\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csproj.GenerateResource.cache
+C:\Users\paulm\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\paulm\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.exe
+C:\Users\paulm\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.pdb
+C:\Users\paulm\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment_3.MainForm.resources
